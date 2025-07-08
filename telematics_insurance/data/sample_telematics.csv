@@ -1,0 +1,12 @@
+timestamp,speed,acceleration,braking_event,latitude,longitude,event_type,weather,time_of_day
+2024-07-08 08:00:00,45,0.2,0,12.9716,77.5946,normal,clear,morning
+2024-07-08 08:00:01,47,0.3,0,12.9717,77.5947,normal,clear,morning
+2024-07-08 08:00:02,50,0.5,0,12.9718,77.5948,speeding,clear,morning
+2024-07-08 08:00:03,52,0.4,0,12.9719,77.5949,speeding,clear,morning
+2024-07-08 08:00:04,48,-1.2,1,12.9720,77.5950,harsh_braking,rainy,morning
+2024-07-08 08:00:05,46,-0.5,0,12.9721,77.5951,normal,rainy,morning
+2024-07-08 08:00:06,44,-0.3,0,12.9722,77.5952,normal,clear,afternoon
+2024-07-08 08:00:07,60,1.5,0,12.9723,77.5953,speeding,clear,afternoon
+2024-07-08 08:00:08,62,0.8,0,12.9724,77.5954,speeding,clear,afternoon
+2024-07-08 08:00:09,55,-2.0,1,12.9725,77.5955,harsh_braking,rainy,afternoon
+2024-07-08 08:00:10,50,0.0,0,12.9726,77.5956,normal,clear,afternoon 
