@@ -13,8 +13,6 @@ This project is a smart, usage-based insurance system that analyzes real driving
 - [Project Highlights](#project-highlights)
 - [Modules Overview](#modules-overview)
 - [Input Data Format](#input-data-format)
-- [Output Screenshots](#output-screenshots)
-- [Author](#author)
 
 ---
 
